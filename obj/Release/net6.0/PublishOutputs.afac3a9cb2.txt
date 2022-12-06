@@ -1,0 +1,7 @@
+/workspaces/hcl/MyApp/TheShoeShop/bin/Release/net6.0/publish/TheShoeShop
+/workspaces/hcl/MyApp/TheShoeShop/bin/Release/net6.0/publish/appsettings.Development.json
+/workspaces/hcl/MyApp/TheShoeShop/bin/Release/net6.0/publish/appsettings.json
+/workspaces/hcl/MyApp/TheShoeShop/bin/Release/net6.0/publish/TheShoeShop.dll
+/workspaces/hcl/MyApp/TheShoeShop/bin/Release/net6.0/publish/TheShoeShop.deps.json
+/workspaces/hcl/MyApp/TheShoeShop/bin/Release/net6.0/publish/TheShoeShop.runtimeconfig.json
+/workspaces/hcl/MyApp/TheShoeShop/bin/Release/net6.0/publish/TheShoeShop.pdb
